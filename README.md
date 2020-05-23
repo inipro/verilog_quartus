@@ -1,1 +1,1 @@
-# <a href="http://inipro.net/goods/goods_view.php?goodsNo=1000617449">Verilog HDL Design using Quartus 교육</a>
+# <a href="https://www.inipro.net/goods/goods_view.php?goodsNo=1000618237">Verilog HDL Design using Quartus</a>
